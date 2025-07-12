@@ -83,7 +83,7 @@ A **polished**, **minimal**, and **developer-focused** landing page built with *
 
 ## 🛠️ Getting Started
 
-
+```bash
 # 1. Clone the project
 git clone https://github.com/yourusername/toolname-landing.git
 cd toolname-landing
@@ -95,7 +95,7 @@ pnpm install  # or yarn or npm
 pnpm dev
 
 # 4. Deploy to Vercel (recommended)
-
+```
 
 ---
 
