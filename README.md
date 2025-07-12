@@ -1,10 +1,12 @@
-# 🌌 Next.js SaaS Landing Page 
+# 🌌 SaaS Landing Page — Open Source SaaS Landing Page for Dev Tools
 
 A **polished**, **minimal**, and **developer-focused** landing page built with **Next.js 14**, **TailwindCSS**, and **shadcn/ui** — perfect for showcasing your open-source SaaS tool.
 
 > Built with modern frameworks, styled with care, and open for the world.
 
-![Demo Here](https://v0-saa-s-landing-page-design-pi-pied.vercel.app/)
+[![Vercel](https://vercel.com/button)](https://v0-saa-s-landing-page-design-pi-pied.vercel.app/)
+
+🔗 **Live Demo**: [v0-saa-s-landing-page.vercel.app](https://v0-saa-s-landing-page-design-pi-pied.vercel.app/)
 
 ---
 
