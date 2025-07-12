@@ -1,4 +1,4 @@
-# 🌌 ToolName — Open Source SaaS Landing Page for Dev Tools
+# 🌌 SaaS Landing Page — Open Source SaaS Landing Page for Dev Tools
 
 A **polished**, **minimal**, and **developer-focused** landing page built with **Next.js 14**, **TailwindCSS**, and **shadcn/ui** — perfect for showcasing your open-source SaaS tool.
 
@@ -45,7 +45,7 @@ A **polished**, **minimal**, and **developer-focused** landing page built with *
 
 * Full-screen, centered layout
 * **Headline**:
-  `A Complete & Open Source ToolName for Developers`
+  `A Complete & Open Source SaaS Landing Page for Developers`
 * **Subtext**:
   `Built with modern frameworks, styled with care, and open for the world.`
 * **Buttons**:
@@ -85,8 +85,8 @@ A **polished**, **minimal**, and **developer-focused** landing page built with *
 
 ```bash
 # 1. Clone the project
-git clone https://github.com/yourusername/toolname-landing.git
-cd toolname-landing
+git clone https://github.com/bnthameur/saas-landing-page-nextjs.git
+cd saas-landing-page-nextjs
 
 # 2. Install dependencies
 pnpm install  # or yarn or npm
@@ -132,7 +132,7 @@ pnpm dev
 
 ## 👨‍💻 Author
 
-Made with 🤍 by [@yourusername](https://github.com/yourusername)
+Made with 🤍 by [@bnthameur](https://github.com/bnthameur)
 
 ---
 
