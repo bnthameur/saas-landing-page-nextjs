@@ -1,4 +1,4 @@
-# 🌌 SaaS Landing Page — Open Source SaaS Landing Page for Dev Tools
+# 🌌 Next.js SaaS landing page
 
 A **polished**, **minimal**, and **developer-focused** landing page built with **Next.js 14**, **TailwindCSS**, and **shadcn/ui** — perfect for showcasing your open-source SaaS tool.
 
